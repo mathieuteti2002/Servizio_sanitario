@@ -1,10 +1,10 @@
-Progetto Programmazione Web 23/24
+Progetto Programmazione Web 23/24 || Pagina web disponibile: 
 
 Dato un template di interfaccia, un colore e un argomento dal docente, sono state realizzate le rispettive pagine web.
 
 Lo schema delle classi è composto nel seguente modo: 
 
-  --> ##Cittadino (CSSN, nome, cognome, dataNascita, luogoNascita, indirizzo)
+  --> Cittadino (CSSN, nome, cognome, dataNascita, luogoNascita, indirizzo)
   
   --> Ospedale (codice, nome, città, indirizzo, direttoreSanitario)
   
